@@ -14,4 +14,12 @@ resources:
     title: "Candid 1: Break"
     params:
       date: 2025-02-07
+  - src: candid2.png
+    title: "Candid 2"
+    params:
+      date: 2025-02-07
+  - src: abandoned.png
+    title: "Abandoned"
+    params:
+      date: 2025-02-07
 ---
