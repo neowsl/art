@@ -1,6 +1,7 @@
 ---
 title: February
 categories: ["photography"]
+sort_by: Params.date
 resources:
   - src: nothingness.png
     title: Nothingness
@@ -22,4 +23,8 @@ resources:
     title: "Abandoned"
     params:
       date: 2025-02-07
+  - src: fairy_tale0.png
+    title: "Fairy Tale 0"
+    params:
+      date: 2025-02-11
 ---
