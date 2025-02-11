@@ -27,4 +27,8 @@ resources:
     title: "Fairy Tale 0"
     params:
       date: 2025-02-11
+  - src: reflection.png
+    title: "Reflection"
+    params:
+      date: 2025-02-11
 ---
