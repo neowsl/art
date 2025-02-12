@@ -43,6 +43,7 @@ resources:
     params:
       weight: 7
       date: 2025-02-12
+      cover: true
   - src: fairy_tale2.png
     title: "Fairy Tale 2: The Reichenbach Fall"
     params:

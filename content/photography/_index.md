@@ -1,7 +1,7 @@
 ---
 title: Photography
 resources:
-  - src: nothingness.png
+  - src: fairy_tale1.png
     params:
       cover: true
 ---
