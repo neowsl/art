@@ -24,11 +24,19 @@ resources:
     params:
       date: 2025-02-07
   - src: fairy_tale0.png
-    title: "Fairy Tale 0"
+    title: "Fairy Tale 0: The Great Game"
     params:
       date: 2025-02-11
   - src: reflection.png
     title: "Reflection"
     params:
       date: 2025-02-11
+  - src: fairy_tale1.png
+    title: "Fairy Tale 1: A Study in Pink"
+    params:
+      date: 2025-02-12
+  - src: fairy_tale2.png
+    title: "Fairy Tale 2: The Reichenbach Fall"
+    params:
+      date: 2025-02-12
 ---
