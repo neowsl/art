@@ -49,4 +49,9 @@ resources:
     params:
       weight: 8
       date: 2025-02-12
+  - src: abbey_road.png
+    title: "Abbey Road"
+    params:
+      weight: 9
+      date: 2025-02-21
 ---
