@@ -57,6 +57,11 @@ resources:
   - src: silhouette.gif
     title: "Silhouette<br>Unable to play GIF, please download file to view"
     params:
-      weight: 9
+      weight: 10
+      date: 2025-02-25
+  - src: aaron_siskind0.png
+    title: "Aaron Siskind"
+    params:
+      weight: 11
       date: 2025-02-25
 ---
