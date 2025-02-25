@@ -54,4 +54,9 @@ resources:
     params:
       weight: 9
       date: 2025-02-21
+  - src: silhouette.gif
+    title: "Silhouette<br>Unable to play GIF, please download file to view"
+    params:
+      weight: 9
+      date: 2025-02-25
 ---
