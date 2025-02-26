@@ -60,8 +60,18 @@ resources:
       weight: 10
       date: 2025-02-25
   - src: aaron_siskind0.png
-    title: "Aaron Siskind"
+    title: "Aaron Siskind 0<br>1/250 sec at f / 5.0. ISO 200"
     params:
       weight: 11
       date: 2025-02-25
+  - src: phs0.png
+    title: "PHS 0"
+    params:
+      weight: 12
+      date: 2025-02-26
+  - src: phs1.png
+    title: "PHS 1"
+    params:
+      weight: 13
+      date: 2025-02-26
 ---
