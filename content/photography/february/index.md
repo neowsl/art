@@ -84,4 +84,9 @@ resources:
     params:
       weight: 15
       date: 2025-03-04
+  - src: barbara_kruger.png
+    title: "Barbara Kruger"
+    params:
+      weight: 16
+      date: 2025-03-04
 ---
