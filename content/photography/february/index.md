@@ -74,4 +74,14 @@ resources:
     params:
       weight: 13
       date: 2025-02-26
+  - src: shape_and_form0.png
+    title: "Shape and Form 0"
+    params:
+      weight: 14
+      date: 2025-03-04
+  - src: shape_and_form1.png
+    title: "Shape and Form 1"
+    params:
+      weight: 15
+      date: 2025-03-04
 ---
