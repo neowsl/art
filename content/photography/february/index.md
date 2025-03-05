@@ -84,24 +84,29 @@ resources:
     params:
       weight: 15
       date: 2025-03-04
+  - src: barbara_kruger_original.png
+    title: "Barbara Kruger (original)"
+    params:
+      weight: 16
+      date: 2025-03-04
   - src: aaron_siskind0.png
     title: "Aaron Siskind 0<br>1/250 sec at f / 5.0. ISO 200"
     params:
-      weight: 16
+      weight: 17
       date: 2025-02-25
   - src: aaron_siskind1.png
     title: "Aaron Siskind 1<br>1/800 sec at f / 2.8, ISO 100"
     params:
-      weight: 17
+      weight: 18
       date: 2025-03-05
   - src: aaron_siskind2.png
     title: "Aaron Siskind 2<br>1/320 sec at f / 2.8. ISO 100"
     params:
-      weight: 18
+      weight: 19
       date: 2025-03-05
   - src: aaron_siskind3.png
     title: "Aaron Siskind 3<br>1/1250 sec at f / 2.8, ISO 100"
     params:
-      weight: 19
+      weight: 20
       date: 2025-03-05
 ---
