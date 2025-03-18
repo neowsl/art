@@ -114,4 +114,9 @@ resources:
     params:
       weight: 21
       date: 2025-03-05
+  - src: david_hockney.png
+    title: "David Hockney"
+    params:
+      weight: 22
+      date: 2025-03-18
 ---
