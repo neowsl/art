@@ -34,4 +34,9 @@ resources:
     params:
       weight: 5
       date: 2025-03-19
+  - src: iconic_image.png
+    title: Iconic Image
+    params:
+      weight: 6
+      date: 2025-03-31
 ---
