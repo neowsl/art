@@ -39,7 +39,7 @@ resources:
       weight: 5
       date: 2025-03-14
   - src: si7.png
-    title: SI 2.1<br>"Written in Time"<br>Though the colour fades, her smile does not.
+    title: SI 2.1<br>"Written in Time"<br>Though the colour fades, her smile does not 🙂
     params:
       weight: 5
       date: 2025-03-14

@@ -39,4 +39,9 @@ resources:
     params:
       weight: 6
       date: 2025-03-31
+  - src: books.png
+    title: Books
+    params:
+      weight: 7
+      date: 2025-04-01
 ---
