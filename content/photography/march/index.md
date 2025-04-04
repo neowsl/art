@@ -44,4 +44,9 @@ resources:
     params:
       weight: 7
       date: 2025-04-01
+  - src: multi_flash.png
+    title: Multi-Flash
+    params:
+      weight: 8
+      date: 2025-04-04
 ---
