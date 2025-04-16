@@ -1,5 +1,6 @@
 ---
 title: Sustained Investigation
+description: Evidence of art and design in our world
 categories: ["photography"]
 sort_by: Params.weight
 resources:
@@ -54,8 +55,18 @@ resources:
       weight: 9
       date: 2025-04-11
   - src: si10.png
-    title: SI 3.0<br>"Art Festival"<br>The school prepares for an afternoon of music.<br>1/250 sec at f / 2.2, ISO 400
+    title: SI 3.1<br>"Art Festival"<br>An afternoon of music at the high school.<br>1/250 sec at f / 2.2, ISO 400
     params:
       weight: 10
       date: 2025-04-15
+  - src: si11.png
+    title: SI 3.2<br>"Hold On Tight!"<br>A dandelion seed prepares to find a new home.<br>1/4000 sec at f / 5.0, ISO 1600
+    params:
+      weight: 11
+      date: 2025-04-16
+  - src: si12.png
+    title: SI 4.0
+    params:
+      weight: 12
+      date: 2025-04-16
 ---
