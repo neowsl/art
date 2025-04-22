@@ -74,4 +74,9 @@ resources:
     params:
       weight: 9
       date: 2025-04-15
+  - src: simplicity.png
+    title: Simplicity
+    params:
+      weight: 10
+      date: 2025-04-22
 ---

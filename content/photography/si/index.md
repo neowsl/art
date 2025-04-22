@@ -65,8 +65,18 @@ resources:
       weight: 11
       date: 2025-04-16
   - src: si12.png
-    title: SI 4.0
+    title: SI 4.0<br>"Dive Bomb"<br>A bumblebee whizzes about in the spring blooms.<br>1/4000 sec at f / 6.3, ISO 1600
     params:
       weight: 12
       date: 2025-04-16
+  - src: si13.png
+    title: SI 4.1<br>"Fire Blossom"<br>A sapling fights its way out of the rocks.<br>1/500 sec at f / 5.0, ISO 100
+    params:
+      weight: 13
+      date: 2025-04-22
+  - src: si14.png
+    title: SI 4.2<br>"Monochrome Tiles"<br>Greyhound paw on the PHS fence.<br>1/500 sec at f / 5.0, ISO 100
+    params:
+      weight: 14
+      date: 2025-04-22
 ---
