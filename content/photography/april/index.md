@@ -44,4 +44,14 @@ resources:
     params:
       weight: 10
       date: 2025-04-22
+  - src: many_me.png
+    title: Many Me
+    params:
+      weight: 11
+      date: 2025-04-28
+  - src: fish_tank.png
+    title: Fish Tank
+    params:
+      weight: 12
+      date: 2025-04-28
 ---
