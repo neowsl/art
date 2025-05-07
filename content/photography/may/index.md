@@ -24,4 +24,29 @@ resources:
       weight: 3
       date: 2025-05-02
       cover: true
+  - src: panning0.png
+    title: Panning 0
+    params:
+      weight: 4
+      date: 2025-05-06
+  - src: panning1.png
+    title: Panning 1
+    params:
+      weight: 5
+      date: 2025-05-06
+  - src: something_growth.png
+    title: Something That Represents "Growth"
+    params:
+      weight: 6
+      date: 2025-05-07
+  - src: something_red.png
+    title: Something Red
+    params:
+      weight: 7
+      date: 2025-05-07
+  - src: something_symmetrical.png
+    title: Something Symmetrical
+    params:
+      weight: 8
+      date: 2025-05-07
 ---
