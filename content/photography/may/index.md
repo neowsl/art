@@ -49,4 +49,29 @@ resources:
     params:
       weight: 8
       date: 2025-05-07
+  - src: texture0.png
+    title: Texture 0
+    params:
+      weight: 9
+      date: 2025-05-09
+  - src: texture1.png
+    title: Texture 1
+    params:
+      weight: 9
+      date: 2025-05-09
+  - src: texture2.png
+    title: Texture 2
+    params:
+      weight: 10
+      date: 2025-05-09
+  - src: texture3.png
+    title: Texture 3
+    params:
+      weight: 11
+      date: 2025-05-09
+  - src: texture4.png
+    title: Texture 4
+    params:
+      weight: 12
+      date: 2025-05-09
 ---
