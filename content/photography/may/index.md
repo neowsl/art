@@ -74,4 +74,19 @@ resources:
     params:
       weight: 12
       date: 2025-05-09
+  - src: body_shape_form0.png
+    title: Body Shape Form 0<br>A stressful hand reaching into the darkness.
+    params:
+      weight: 13
+      date: 2025-05-13
+  - src: body_shape_form1.png
+    title: Body Shape Form 1<br>Identity is visible in the smallest details.
+    params:
+      weight: 14
+      date: 2025-05-13
+  - src: body_shape_form2.png
+    title: Body Shape Form 2<br>"When you possess light within, you see it externally." - Anaïs Nin
+    params:
+      weight: 15
+      date: 2025-05-13
 ---

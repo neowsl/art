@@ -54,4 +54,9 @@ resources:
     params:
       weight: 12
       date: 2025-04-28
+  - src: self_portrait.png
+    title: Self Portrait
+    params:
+      weight: 13
+      date: 2025-05-13
 ---
