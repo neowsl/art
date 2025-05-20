@@ -89,4 +89,19 @@ resources:
     params:
       weight: 15
       date: 2025-05-13
+  - src: meticulous.png
+    title: Meticulous
+    params:
+      weight: 16
+      date: 2025-05-20
+  - src: colour_run.png
+    title: Colour Run
+    params:
+      weight: 17
+      date: 2025-05-20
+  - src: mixed_media.png
+    title: Mixed Media
+    params:
+      weight: 18
+      date: 2025-05-20
 ---
