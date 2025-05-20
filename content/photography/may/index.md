@@ -104,4 +104,9 @@ resources:
     params:
       weight: 18
       date: 2025-05-20
+  - src: jordi_koalitic.png
+    title: Jordi Koalitic
+    params:
+      weight: 19
+      date: 2025-05-20
 ---
