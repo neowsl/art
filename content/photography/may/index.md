@@ -109,4 +109,19 @@ resources:
     params:
       weight: 19
       date: 2025-05-20
+  - src: noir0.png
+    title: Noir 0
+    params:
+      weight: 20
+      date: 2025-05-21
+  - src: noir1.png
+    title: Noir 1
+    params:
+      weight: 21
+      date: 2025-05-21
+  - src: noir2.png
+    title: Noir 2
+    params:
+      weight: 22
+      date: 2025-05-21
 ---
