@@ -9,7 +9,7 @@ title = "Gallery"
 
 [params]
   defaultTheme = "dark"
-  description = "Images from a Digital Photography class"
+  description = "Creative portfolio - Photography & Digital Arts"
   title = "Neal Wang's Gallery"
   [params.author]
     email = "nealwang.sh@protonmail.com"

@@ -1,5 +1,6 @@
 ---
 title: Procreate
+categories: ["procreate"]
 sort_by: Params.weight
 resources:
   - src: shin_haein.png
