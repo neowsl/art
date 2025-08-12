@@ -1,4 +1,4 @@
 ---
 title: Neal Wang's Gallery
-description: Images from a Digital Photography class
+description: Creative portfolio - Photography & Digital Arts
 ---
